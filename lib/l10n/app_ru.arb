@@ -1,4 +1,13 @@
 {
   "@@locale": "ru",
-  "appName": "Ягод Маркет"
+  "app_name": "Ягод Маркет",
+  "page_search_title": "Поиск",
+  "@page_search_title": {
+    "description": "Title text displayed on the character selection dialog"
+  },
+  "page_adverts_title": "Объявления",
+  "page_points_title": "Узлы",
+  "page_favorites_title": "Избранное",
+  "page_subscriptions_title": "Подписки",
+  "page_profile_title": "Профиль"
 }

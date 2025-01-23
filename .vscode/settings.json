@@ -3,5 +3,8 @@
   "cSpell.words": [
     "yagodmarket"
   ],
-  "cSpell.language": "en,ru"
+  "cSpell.language": "en,ru",
+  "arb-editor.suppressedWarnings": [
+    "missing_metadata_for_key"
+  ]
 }
